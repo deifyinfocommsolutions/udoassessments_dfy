@@ -1,2 +1,2 @@
-# udoassessments_dfy
-UdoConnect Assessments for iBeads
+# assessments_dfy
+Assessments Portal for iBeads
